@@ -7,6 +7,6 @@ function init(){
 	console.log('App Init ::');
 }
 
-function test(){
-	console.log('In test method');
+function test(inp){
+	console.log('In test method : '+inp);
 }
